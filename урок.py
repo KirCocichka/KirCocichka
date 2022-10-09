@@ -1,2 +1,11 @@
-const string name = "Igor";
-Console.WriteLine(name)
+using System;
+namespace kirsosichka
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+
+        }
+    }
+}
